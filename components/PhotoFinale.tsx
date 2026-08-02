@@ -11,7 +11,7 @@ export default function PhotoFinale() {
 
         <div className="mx-auto w-56 overflow-hidden rounded-sm border border-panelEdge sm:w-64">
           <Image
-            src="/dafi-photo.jpg"
+            src="https://www.image2url.com/r2/default/images/1785675250130-7bb8e183-de90-405e-97ff-767c9f6bcf4d.jpg"
             alt="Dafi"
             width={512}
             height={512}
