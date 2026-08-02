@@ -1,6 +1,6 @@
 {
   "name": "dafi-birthday",
-  "version": "1.0.0",
+  "verson": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
